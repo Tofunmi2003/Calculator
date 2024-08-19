@@ -1,5 +1,19 @@
 # Calculator
 
+This project features a basic calculator built using the Remix IDE, with Solidity as the programming language. The calculator demonstrates fundamental arithmetic operations executed on the Ethereum blockchain.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // SPDX-License-Identifier: MIT
 
